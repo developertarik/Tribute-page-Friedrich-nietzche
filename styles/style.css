@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');body{
+    background-color:rgb(184, 169, 180);
+    font-family: "Open Sans",cursive;
+}
+.top {
+    padding:0px  50px 50px 50px;
+    text-align: center;
+    background-color: grey;
+}
