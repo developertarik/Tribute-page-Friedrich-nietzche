@@ -5,5 +5,31 @@
 .top {
     padding:0px  50px 50px 50px;
     text-align: center;
-    background-color: grey;
+}
+/*bottom*/
+.bottom-alt-container{
+    display:flex;
+    padding: 0px 50px 50px 50px;
+     background-color: grey;
+
+}
+.centered-text{
+    text-align: center;
+}
+.bottom-item{
+    display:flex;
+    gap:20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+img{
+    width: 270px;
+    height: 380px;    
+}
+/*footer*/
+.footer{
+    padding: 25px;
+    text-align: center;
+    color: bisque;
+    background-color: black;
 }
